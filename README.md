@@ -1,6 +1,6 @@
 # Football Application
 
-As a part of proceeding a contract with freelance job, is to test the api we need to use, but finally we haven't chosen that one for our application because of the price of it's service, so finally, _i decided to publish the worked section that i test the api with._  
+As a part of proceeding a contract with freelance job, this app made to test the api we need to use, but finally we haven't chosen that one for our application because of the price of it's service, so finally, _i decided to publish the worked section that i test the api with._  
 
 ## Current Working Screen Details 
 
@@ -16,11 +16,13 @@ As a part of proceeding a contract with freelance job, is to test the api we nee
     
     > For Every Season There's a List Of Team That Competitioned In This Season  
 
-## Current Features
+## Topics Included
 
-- BLoC for each Module 
-- Clean architectured application 
-- Service locator as dependency injector 
+- BLoC State Management  
+- Clean architecture 
+- Service locator as dependency injector ( Get It Package ) 
+- API Integration ( Dio Package )
+
 
 **!important**  
 > Failures is not handled in presentation Layer, instead we show up a text "Error".
